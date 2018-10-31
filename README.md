@@ -7,7 +7,7 @@ React is a JavaScript library for building user interfaces.
 * **Learn Once, Write Anywhere:** We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code. React can also render on the server using Node and power mobile apps using [React Native](https://facebook.github.io/react-native/).
 
 [Learn how to use React in your own project](https://reactjs.org/docs/getting-started.html).
-
+## David K modified for practicing git :)
 ## Installation
 
 React has been designed for gradual adoption from the start, and **you can use as little or as much React as you need**:
